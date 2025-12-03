@@ -2,7 +2,7 @@
 
 [![OpenCart](https://img.shields.io/badge/OpenCart-2.x%20|%203.x%20|%204.x-blue.svg)](https://www.opencart.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/yourusername/Meest-Express-for-Opencart/releases)
+[![Version](https://img.shields.io/badge/version-1.2.0-brightgreen.svg)](https://github.com/yourusername/Meest-Express-for-Opencart/releases)
 
 **Професійна інтеграція сервісів доставки Meest ПОШТА з інтерактивною картою відділень для OpenCart**
 
@@ -394,7 +394,7 @@ A: Модуль підтримує всі сервіси Meest ПОШТА, вк�
 
 ## 🔄 Changelog
 
-### Version 1.0.0 (2024)
+### Version 1.2.0 (2024)
 - ✨ Початковий реліз
 - ✅ Підтримка OpenCart 2.x - 4.x
 - 🗺️ Інтерактивна карта відділень
