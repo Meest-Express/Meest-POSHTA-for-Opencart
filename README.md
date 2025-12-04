@@ -111,7 +111,7 @@
 - **MySQL**: 5.6 або вище
 - **cURL**: увімкнено на сервері
 - **SSL**: рекомендовано для безпечної роботи з API
-- **API облікові дані Meest ПОШТА**: API Key та API Secret (отримати на [meest.com](https://meest.com))
+- **API облікові дані Meest ПОШТА**: API Key та API Secret (отримати на [meest.com](https://meestposhta.com.ua/for-online-shops))
 
 ---
 
