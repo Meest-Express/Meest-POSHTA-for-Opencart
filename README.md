@@ -111,7 +111,7 @@
 - **MySQL**: 5.6 або вище
 - **cURL**: увімкнено на сервері
 - **SSL**: рекомендовано для безпечної роботи з API
-- **API облікові дані Meest ПОШТА**: API Key та API Secret (отримати на [meest.com](https://meestposhta.com.ua/for-online-shops))
+- **API облікові дані Meest ПОШТА**: API Key та API Secret (отримати на [https://meestposhta.com.ua/for-online-shops](https://meestposhta.com.ua/for-online-shops))
 
 ---
 
@@ -350,7 +350,7 @@ Meest-Express-for-Opencart/
 
 ### Документація та ресурси
 
-- 📖 [Офіційний сайт Meest ПОШТА](https://meest.com)
+- 📖 [Офіційний сайт Meest ПОШТА](https://meestposhta.com.ua)
 - 💼 [API документація Meest ПОШТА](https://wiki.meest-group.com/api/ua/v3.0/openAPI)
 - 🛒 [OpenCart Documentation](https://docs.opencart.com/)
 
@@ -438,7 +438,7 @@ A: Модуль підтримує всі сервіси Meest ПОШТА, вк�
 </p>
 
 <p align="center">
-  <a href="https://meest.com">
-    <img src="https://meest.com/logo.svg" alt="Meest ПОШТА" width="200"/>
+  <a href="https://meestposhta.com.ua">
+    <img src="https://meestposhta.com.ua/images/logo_2.svg" alt="Meest ПОШТА" width="200"/>
   </a>
 </p>
